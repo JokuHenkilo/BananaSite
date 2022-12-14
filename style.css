@@ -1,0 +1,30 @@
+body
+{
+	background-color: rgb(255,255,200);
+}
+
+.bg-yellow
+{
+	background-color: rgb(255,255,0);
+}
+
+.nav-link-blue
+{
+	display: block;
+	padding-top: 0.5rem;
+	padding-left: 0.5rem;
+	margin-right: 50px;
+	margin-left: 50px;
+	color: rgb(0,0,255);
+	text-decoration: none;
+	transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+.carouselBox
+{
+	margin: auto;
+	width: 90%;
+	border-style: solid;
+	border-color: black;
+	border-radius: 1px;
+}
