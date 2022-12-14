@@ -33,6 +33,12 @@ h2
 	border-radius: 1px;
 }
 
+.centered
+{
+	margin: auto;
+	width: auto;
+}
+
 .newsField
 {
 	height: 2em;
