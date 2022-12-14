@@ -3,6 +3,11 @@ body
 	background-color: rgb(255,255,200);
 }
 
+h2
+{
+	font-size: large;
+}
+
 .bg-yellow
 {
 	background-color: rgb(255,255,0);
@@ -22,9 +27,21 @@ body
 
 .carouselBox
 {
-	margin: auto;
-	width: 90%;
+	margin: 0.25em;
 	border-style: solid;
 	border-color: black;
 	border-radius: 1px;
+}
+
+.mainText
+{
+	margin-right: 0.25em;
+}
+
+.newsField
+{
+	height: 2em;
+	margin: 0.25em;
+	margin-left: 0px;
+	width: 100%;
 }
