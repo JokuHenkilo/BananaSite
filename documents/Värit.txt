@@ -1,0 +1,5 @@
+﻿Sivun tausta on haalean keltainen ja navbar on kirkkaan keltainen koska keltainen on banaanien väri.
+Navbarin teksti on sininen koska sininen on keltaisen vastaväri RGB-värisysteemillä.
+Sivun teksti on mustaa koska liika sininen teksti kävi silmälle ärsyttäväksi.
+Tekstikenttien tausta on valkoinen jotta ne erottuvat tautasta helpommin.
+Sivulla olevan näppäimen ulkoreunat ja teksti ovat siniset jotta se erottuu tekstikentistä.
