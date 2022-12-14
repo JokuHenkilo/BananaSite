@@ -25,7 +25,7 @@ h2
 	transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
 
-.carouselBox
+.divBox
 {
 	margin: 0.25em;
 	border-style: solid;
@@ -33,15 +33,10 @@ h2
 	border-radius: 1px;
 }
 
-.mainText
-{
-	margin-right: 0.25em;
-}
-
 .newsField
 {
 	height: 2em;
 	margin: 0.25em;
-	margin-left: 0px;
+	margin-left: 0;
 	width: 100%;
 }
