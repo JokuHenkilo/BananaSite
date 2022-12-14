@@ -46,3 +46,49 @@ h2
 	margin-left: 0;
 	width: 100%;
 }
+
+.bsButton
+{
+	background-color: white;
+	color: blue;
+}
+
+.bsButton:hover
+{
+	background-color: blue;
+	color: white;
+}
+
+option
+{
+	background-color: white;
+	color: black;
+}
+
+.freqDD
+{
+	background-color: white;
+	color: black;
+}
+
+.freqDD:hover
+{
+	background-color: blue;
+	color: white;
+}
+
+h4 + ul > li
+{
+	font-style: italic;
+}
+
+h3 ~ ul > li
+{
+	font-weight: lighter;
+}
+
+a[href="./beyondPage.html"]
+{
+	font-weight: lighter;
+	font-style: italic;
+}
